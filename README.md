@@ -14,6 +14,9 @@ Terjemahan-terjemahan di sini berasal dari [sumber-sumber ini](#translation-sour
 
 > ` For help me create this project translation`
 
+
+> `And Thanks To Avura,Arekyuu,Crystant`
+
 ---
 
 # Cara Pasang / Pakai 
