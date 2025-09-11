@@ -3135,28 +3135,28 @@
     },
     {
       "path": "assets/story/data/04/1021/storytimeline_041021003.json",
-      "hash": "6d7e0f7713738eb668bb6ea9cae573904679c8e1a0d10a0f772c4bb671931163",
-      "size": 8751
+      "hash": "3cca289ef8d5e53f25602017caed94404b655e6057af0ae96741e3c016bfb5b1",
+      "size": 9040
     },
     {
       "path": "assets/story/data/04/1021/storytimeline_041021004.json",
-      "hash": "8eb0a63c92fa9be4fd35ee6b8ecf09cfd45386f2e08a6087f771de6e2cb6b981",
-      "size": 8528
+      "hash": "faa86d7e759403b9f4b1ed9f7e6f7528022b211c92c5a64ffc974a39ae51fd05",
+      "size": 8780
     },
     {
       "path": "assets/story/data/04/1021/storytimeline_041021005.json",
-      "hash": "4ed52b861b9d9d1b119a4b21c4d2deb4ce765bdbedd913552a2866c639503a79",
-      "size": 6444
+      "hash": "f566a30d7500caf5803b456c3d9fca79d9c03f126836e6b7ab9501feef22eca8",
+      "size": 6468
     },
     {
       "path": "assets/story/data/04/1021/storytimeline_041021006.json",
-      "hash": "1df78a99331319f4f37ba2989897b4a99fec50ef6b7b22880356cba9b41bade5",
-      "size": 10162
+      "hash": "aad79e19a5ed17af4142584ec79c6a2ba2656e10a00968e6de9bf62461637406",
+      "size": 10262
     },
     {
       "path": "assets/story/data/04/1021/storytimeline_041021007.json",
-      "hash": "3faf3d7f5cf905dd31b1df00288f6374537a5e18caa29e0aae3b32a4e34c73d3",
-      "size": 10929
+      "hash": "40eca30fe58868e0632c597fb2db62602fdd34f48a9601efd7a16de199aa7280",
+      "size": 11041
     },
     {
       "path": "assets/story/data/04/1022/storytimeline_041022001.json",
@@ -5265,13 +5265,13 @@
     },
     {
       "path": "assets/story/data/08/0000/storytimeline_080000008.json",
-      "hash": "5bb182b753f6a3b67a9aa61747024b4f8dce291633777be13a1386408c91b21b",
-      "size": 2071
+      "hash": "3fceb30177bfa196e65820ce3d4588981b40e8a6d6a99e8c803bacf2b784bc97",
+      "size": 2015
     },
     {
       "path": "assets/story/data/08/0000/storytimeline_080000009.json",
-      "hash": "6cd475422c434cc23407a9b558da2d825bdc16e44415da7158442b6cfc7e2521",
-      "size": 2278
+      "hash": "1728292d30cb66c92a14fa6aa20131af5d1e56a048fb1e43b1484603c0b7d9c2",
+      "size": 2234
     },
     {
       "path": "assets/story/data/08/0000/storytimeline_080000010.json",
@@ -5280,8 +5280,8 @@
     },
     {
       "path": "assets/story/data/08/0000/storytimeline_080000011.json",
-      "hash": "2cf467484b0db054fe280df5fc033cb6d57098140cda861f003605de11616249",
-      "size": 1769
+      "hash": "55d343c2a19268f64c145cd916a2ddc018860555a283a0b564b540800caedc2f",
+      "size": 1754
     },
     {
       "path": "assets/story/data/09/0002/storytimeline_090002001.json",
@@ -10550,23 +10550,28 @@
     },
     {
       "path": "config.json",
-      "hash": "1c54de09830df6348cbc14f40b252df79e26f8decf80b67c77985419003dab84",
-      "size": 1533
+      "hash": "5d6fc25b108e086c24adb4a966bfca65b59cfc0092536a632c089cd43144c9e0",
+      "size": 1568
     },
     {
       "path": "hashed_dict.json",
-      "hash": "f10ecc6a74c00630264a7db20ecf9705fba31e896d3736df1da620e3d5959a07",
-      "size": 9100
+      "hash": "06e315682dfd2b8b4a3dd788ae42a0a7fdbf26e5a9d967b591db1bd6d172c19f",
+      "size": 9155
     },
     {
-      "path": "includes",
+      "path": "includes_android",
+      "hash": "b0e84af7d0a51662e3e597aa008ea46dfdb3591a9a5d5e14848576c205312e9d",
+      "size": 1808037
+    },
+    {
+      "path": "includes_win",
       "hash": "19554653834afefefb053ce6bb641c09d2d32150b41e3d22727d1bb913f24daf",
       "size": 1805441
     },
     {
       "path": "localize_dict.json",
-      "hash": "48c48edfe052039da237cb604fa99fa72dfe4d6cb7cec0f935107aaf180f7a4f",
-      "size": 274449
+      "hash": "a8dbce3140db0c000a041169134cb04466c3c475355164d20aeba49b2580898b",
+      "size": 275355
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -10575,8 +10580,8 @@
     },
     {
       "path": "race_jikkyo_message_dict.json",
-      "hash": "d4fb8d073284cb9b5c7d7b379fd5705fddc9f79ef761e8abc2bb226050afccc3",
-      "size": 192311
+      "hash": "cb5747964040743dc30e8f9b0a554b1212c07e979a685fde3295e58c38ad0c8a",
+      "size": 198940
     },
     {
       "path": "text_data_dict.json",
