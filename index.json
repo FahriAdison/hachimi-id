@@ -99,6 +99,11 @@
       "size": 1
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_btn_get_heroskill00/tx_uTex_fl_heroes_btn_get_heroskill00_0.diff.png",
+      "hash": "c4717083c55ddd35cc7d8816cd8508bced93759ed9757980be7f03fa3a688e1b",
+      "size": 69041
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_login_normal_title00/tx_uTex_fl_login_normal_title00_0.diff.png",
       "hash": "4e8f5b2279b669da6257f810ddc553e000d7fdde65844290a845d14ec8379759",
       "size": 25234
