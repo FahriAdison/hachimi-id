@@ -89,6 +89,11 @@
       "size": 1
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_chara_piece00/tx_uTex_fl_gacha_chara_piece00_0.diff.png",
+      "hash": "140d146c7ba383f5f52269ce67d12c50bc4fda2bac9fd124b9018f33c06882b3",
+      "size": 6767
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_login_normal_title00/tx_uTex_fl_login_normal_title00_0.diff.png",
       "hash": "4e8f5b2279b669da6257f810ddc553e000d7fdde65844290a845d14ec8379759",
       "size": 25234
