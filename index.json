@@ -49,6 +49,11 @@
       "size": 1
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_contactcard_photolibrary_icon00/tx_uTex_fl_contactcard_photolibrary_icon00_0.diff.png",
+      "hash": "25c8c2c224a4e03910b225a090d050ea6348cdb0f123a421789faff41023011a",
+      "size": 8385
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_factorresearch_gauge00/tx_uTex_fl_factorresearch_gauge00_0.diff.png",
       "hash": "e9f29c34ddd85dd7a93757f018666a4488964f35894b0eab033bcb55fd1084e4",
       "size": 160407
