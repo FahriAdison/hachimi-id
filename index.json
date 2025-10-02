@@ -129,6 +129,11 @@
       "size": 1
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_raceresult_gaugemax00/tx_uTex_fl_heroes_raceresult_gaugemax00_0.diff.png",
+      "hash": "56bf06395e605b7412cf315b65bbbd6768515ae2be2d12bcb3978f8f14949227",
+      "size": 360981
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_login_normal_title00/tx_uTex_fl_login_normal_title00_0.diff.png",
       "hash": "4e8f5b2279b669da6257f810ddc553e000d7fdde65844290a845d14ec8379759",
       "size": 25234
